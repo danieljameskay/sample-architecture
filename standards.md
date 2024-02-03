@@ -1,0 +1,12 @@
+1. **RESTful API Design** : Adhere to the principles of Representational State Transfer (REST) for designing web APIs, including resource identification, statelessness, uniform interface, and layered system architecture.
+2. **OpenAPI (formerly Swagger)** : Utilize OpenAPI Specification for defining RESTful APIs, enabling standardization, documentation, and interoperability across different platforms and programming languages.
+3. **OAuth 2.0** : Implement OAuth 2.0 protocol for secure authorization, enabling delegated access to resources without sharing user credentials and facilitating single sign-on (SSO) authentication flows.
+4. **JSON Web Tokens (JWT)** : Use JWT as a standard for securely transmitting information between parties in JSON format, commonly used for authentication and authorization in web applications and APIs.
+5. **Microservices Architecture** : Adopt a microservices architectural style for developing large, complex applications as a collection of loosely coupled services, each responsible for a specific business domain or functionality.
+6. **Event-Driven Architecture (EDA)** : Design systems using an event-driven approach where components communicate through asynchronous events, enabling decoupling, scalability, and flexibility in handling business processes and workflows.
+7. **Containerization with Docker** : Standardize application packaging and deployment using Docker containers, enabling consistent environments across development, testing, and production, and facilitating scalability and portability.
+8. **Kubernetes** : Utilize Kubernetes as a container orchestration platform for automating deployment, scaling, and management of containerized applications, providing resilience, scalability, and operational efficiency.
+9. **GraphQL** : Adopt GraphQL as a query language for APIs, enabling clients to request only the data they need and reducing over-fetching and under-fetching of data, improving performance and developer productivity.
+10. **Domain-Driven Design (DDD)** : Apply domain-driven design principles and patterns for modeling complex business domains, fostering collaboration between domain experts and developers and ensuring alignment between software and business requirements.
+
+These architectural standards provide guidelines and best practices for designing, developing, and deploying software systems, promoting interoperability, scalability, security, and maintainability
