@@ -5,9 +5,7 @@ Certainly! Here's an example of a high-level design for an application that inte
 ```
                       +-------------------+
                       |    API Gateway    |
-                      |   (e.g., AWS API  |
-                      |    Gateway,       |
-                      |   Kong, etc.)     |
+                      |     (Kong)
                       +--------+----------+
                                |
                       +--------v----------+
@@ -18,9 +16,7 @@ Certainly! Here's an example of a high-level design for an application that inte
           |           +--------v----------+
           |           |   Application    |
           |           |   Servers        |
-          |           |   (e.g., Node.js,|
-          |           |   Spring Boot,   |
-          |           |   Django, etc.)  |
+          |           |   (Node.js)      |
           |           +--------+----------+
           |                    |
           |           +--------v----------+
@@ -38,9 +34,7 @@ Certainly! Here's an example of a high-level design for an application that inte
                                |
                       +--------v----------+
                       |    Database       |
-                      |   (e.g., MySQL,   |
-                      |   PostgreSQL,     |
-                      |   MongoDB, etc.)  |
+                      |   (Postgres)       |
                       +-------------------+
 ```
 
